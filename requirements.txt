@@ -1,1 +1,6 @@
-requests>=2.31,<3
+llama-index-core>=0.14.25
+llama-index-llms-openai-like>=0.8.1
+llama-index-retrievers-bm25>=0.8.0
+# for --hybrid:
+# llama-index-embeddings-fastembed>=0.7.0
+# fastembed>=0.8
